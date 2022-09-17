@@ -1,0 +1,18 @@
+.main-homepage {
+  background-color: snow;
+}
+.sec-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 100px;
+  padding-right: 80px;
+  padding-top: 50px;
+  font-size: 20px;
+}
+.product-div {
+  display: grid;
+  margin-left: 90px;
+  margin-right: 80px;
+  grid-template-columns: auto auto auto;
+}

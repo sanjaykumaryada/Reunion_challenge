@@ -1,0 +1,57 @@
+.main-filter-div {
+  width: auto;
+  background-color: white;
+  height: 70px;
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 80px;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0px 0px 10px 0px rgba(105, 7, 48, 0.2);
+}
+.sec-filter-div {
+  display: flex;
+  flex-direction: column;
+}
+.label {
+  color: grey;
+}
+.input-filter {
+  width: 300px;
+  height: 100%;
+  border: none;
+}
+.line {
+  border: grey solid 1px;
+  height: 70%;
+  display: flex;
+  margin-top: 22px;
+  justify-content: center;
+  align-items: center;
+}
+.search-btn {
+  width: 100px;
+  height: 50px;
+  margin-top: 15px;
+  margin-right: 15px;
+  font-size: 20px;
+  background-color: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 10%;
+}
+.search-btn:hover{
+  background-color:red;
+}
+.select-div select {
+  height: 50px;
+  width: 200px;
+  font-size: 20px;
+  border: none;
+}
+.select-div input {
+  width: 200px;
+  border: none;
+  height: 40px;
+}
