@@ -1,2 +1,2 @@
 # Reunion_challenge
-Created with CodeSandbox
+For login use user credential given in user.json file.
